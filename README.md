@@ -1,3 +1,5 @@
+<img width="1920" height="640" alt="rimset-discord-bar" src="https://github.com/user-attachments/assets/a64bd0b5-e8b1-47dc-9e76-4fa13252a9ce" />
+
 ## How To Run
 
 1. Download the `.exe` from the latest release.
